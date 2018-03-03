@@ -67,6 +67,10 @@
 * https://app.codacy.com/
 
   https://github.com/marketplace/codacy
+  
+* https://codeclimate.com
+
+  https://github.com/marketplace/code-climate
 
 # code vulnerability
 
