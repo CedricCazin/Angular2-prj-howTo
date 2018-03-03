@@ -59,17 +59,22 @@
 # code coverage
 
 * https://coveralls.io/
-* https://github.com/marketplace/coveralls
+
+  https://github.com/marketplace/coveralls
 
 # code quality
 
 * https://app.codacy.com/
-* https://github.com/marketplace/codacy
+
+  https://github.com/marketplace/codacy
 
 # code vulnerability
 
 * https://snyk.io
-* https://github.com/marketplace/snyk
+
+  https://github.com/marketplace/snyk
+
+* https://david-dm.org
 
 # style
 
